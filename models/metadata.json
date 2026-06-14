@@ -1,0 +1,32 @@
+{
+  "trained_at": "2026-06-14T09:59:40.464300Z",
+  "training_weeks": 144,
+  "last_data_date": "2017-09-25",
+  "lags": [
+    1,
+    2,
+    4,
+    12,
+    52
+  ],
+  "feature_cols": [
+    "lag_1",
+    "lag_2",
+    "lag_4",
+    "lag_12",
+    "lag_52",
+    "rolling_4",
+    "rolling_12",
+    "week_of_year"
+  ],
+  "holdout_metrics": {
+    "mae": 86.26,
+    "rmse": 111.02,
+    "smape": 3.469,
+    "bias": 31.12,
+    "residual_std": 106.57,
+    "test_weeks": 12
+  },
+  "avg_weekly_demand": 2608.5,
+  "demand_std": 149.8
+}
