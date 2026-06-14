@@ -33,3 +33,7 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Claude
+.claude/
+CLAUDE.md
