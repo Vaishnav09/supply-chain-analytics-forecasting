@@ -6,8 +6,8 @@ End-to-end analytics and ML pipeline on the DataCo Global Supply Chain dataset â
 
 | Tool | Link |
 |---|---|
-| Streamlit App | [supply-chain-analytics-forecasting.streamlit.app](https://supply-chain-analytics-forecasting.streamlit.app) |
-| Tableau Dashboard | [Tableau Public](#) |
+| Streamlit App | https://supply-chain-analytics-forecasting-ryz8appvtlnhr8dpgsrtzyc.streamlit.app/ |
+| Tableau Dashboard | https://public.tableau.com/shared/KFRK3DXZW?:display_count=n&:origin=viz_share_link |
 
 ---
 
